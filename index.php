@@ -113,7 +113,7 @@ if (isset($_GET['add_to_cart'])) {
                     <a href="index.php?add_to_cart=58" class="btn btn-primary">
                         <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Add to cart
                     </a><br><br>
-                    <p><?php if (isset ($choco)){echo "Vous avez " . $choco . " Chocolate cookie dans votre panier !";}?></p>
+                    <p><?php if (isset ($choco)){echo "Vous avez " . $choco . " Chocolates cookie dans votre panier !";}?></p>
                 </figcaption>
             </figure>
         </div>
